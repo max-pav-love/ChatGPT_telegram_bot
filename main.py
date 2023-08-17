@@ -1,3 +1,4 @@
+# coding: utf-8
 import telebot
 import openai
 from settings import AI_API_KEY, TG_API_KEY
